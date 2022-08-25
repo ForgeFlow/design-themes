@@ -1,6 +1,6 @@
 {
     'name': 'Themes Testing Module',
-    'version': '1.0',
+    'version': '15.0.1.0.0',
     'category': 'Hidden',
     'sequence': 9877,
     'summary': 'Create a new website for each Odoo theme for an easy preview.',

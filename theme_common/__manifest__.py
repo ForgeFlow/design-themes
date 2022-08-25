@@ -3,7 +3,7 @@
     'summary': 'Snippets Library',
     'description': 'Snippets library containing snippets to be styled in themes.',
     'category': 'Hidden',
-    'version': '1.1',
+    'version': '15.0.1.1.0',
     'depends': ['website'],
     'data': [
         'data/data.xml',

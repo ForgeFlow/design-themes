@@ -4,7 +4,7 @@
     'category': 'Theme/Corporate',
     'summary': 'Consultancy, Design, Tech, Computers, IT, Blogs',
     'sequence': 110,
-    'version': '2.1.0',
+    'version': '15.0.2.1.0',
     'author': 'Odoo S.A.',
     'depends': ['website'],
     'data': [

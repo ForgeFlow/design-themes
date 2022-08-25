@@ -4,7 +4,7 @@
     'category': 'Theme/Retail',
     'summary': 'Beauty, Health, Care, Make Up, Cosmetics, Hair Dressers, Stores',
     'sequence': 170,
-    'version': '2.1.0',
+    'version': '15.0.2.1.0',
     'author': 'Odoo S.A.',
     'depends': ['theme_common'],
     'data': [

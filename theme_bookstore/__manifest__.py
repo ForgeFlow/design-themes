@@ -4,7 +4,7 @@
     'category': 'Theme/Retail',
     'summary': 'Library, Books, Magazines, Literature, Musics, Media, Store',
     'sequence': 250,
-    'version': '2.1.0',
+    'version': '15.0.2.1.0',
     'author': 'Odoo S.A.',
     'depends': ['theme_common'],
     'data': [

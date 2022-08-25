@@ -4,7 +4,7 @@
     'category': 'Theme/Services',
     'summary': 'Legal, Corporate, Business, Tech, Services',
     'sequence': 120,
-    'version': '2.1.0',
+    'version': '15.0.2.1.0',
     'author': 'Odoo S.A.',
     'depends': ['theme_common'],
     'data': [
