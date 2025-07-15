@@ -4,7 +4,7 @@
     'category': 'Theme/Retail',
     'summary': 'Beauty, Health, Care, Make Up, Cosmetics, Hair Dressers, Stores',
     'sequence': 170,
-    'version': '2.1.0',
+    'version': '17.0.2.1.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

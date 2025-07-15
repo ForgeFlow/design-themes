@@ -4,7 +4,7 @@
     'category': 'Theme/Creative',
     'summary': 'Artist, Arts, Galleries, Creative, Paintings, Photography, Shows, Stores',
     'sequence': 310,
-    'version': '2.1.0',
+    'version': '17.0.2.1.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

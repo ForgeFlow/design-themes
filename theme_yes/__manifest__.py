@@ -4,7 +4,7 @@
     'category': 'Theme/Personal',
     'summary': 'Wedding, Love, Photography, Services',
     'sequence': 330,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

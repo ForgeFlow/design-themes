@@ -4,7 +4,7 @@
     'category': 'Theme/Corporate',
     'summary': 'Development, IT development, Design, Tech, Computers, IT, Blogs',
     'sequence': 110,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'depends': ['website'],
     'data': [
         'data/generate_primary_template.xml',

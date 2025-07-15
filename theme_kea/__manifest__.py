@@ -4,7 +4,7 @@
     'category': 'Theme/Technology',
     'summary': 'Technology, Tech, IT, Computers, Stores, Virtual Reality',
     'sequence': 200,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

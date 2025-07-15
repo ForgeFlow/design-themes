@@ -4,7 +4,7 @@
     'category': 'Theme/Corporate',
     'summary': 'Service, Corporate, Design, Technology, Robotics, Computers, IT, Blogs',
     'sequence': 110,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'data': [
         'data/generate_primary_template.xml',
         'data/ir_asset.xml',

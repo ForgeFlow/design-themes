@@ -4,7 +4,7 @@
     'category': 'Theme/Services',
     'summary': 'Event, Restaurants, Bars, Pubs, Cafes, Catering, Food, Drinks, Concerts, Shows, Musics, Dance, Party',
     'sequence': 260,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

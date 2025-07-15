@@ -4,7 +4,7 @@
     'category': 'Theme/Retail',
     'summary': 'Florist, Gardens, Flowers, Nature, Green, Beauty, Stores',
     'sequence': 230,
-    'version': '2.0.0',
+    'version': '17.0.2.0.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

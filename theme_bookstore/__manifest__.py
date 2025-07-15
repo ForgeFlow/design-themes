@@ -4,7 +4,7 @@
     'category': 'Theme/Retail',
     'summary': 'Library, Books, Magazines, Literature, Musics, Media, Store',
     'sequence': 250,
-    'version': '2.1.0',
+    'version': '17.0.2.1.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

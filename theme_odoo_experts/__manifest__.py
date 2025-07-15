@@ -4,7 +4,7 @@
     'category': 'Theme/Corporate',
     'summary': 'Advisor, Corporate, Service, Business, Finance, IT',
     'sequence': 210,
-    'version': '2.1.0',
+    'version': '17.0.2.1.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',

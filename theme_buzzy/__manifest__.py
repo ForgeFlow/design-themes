@@ -4,7 +4,7 @@
     'category': 'Theme/Corporate',
     'summary': 'Corporate, Services, Technology, Shapes, Illustrations',
     'sequence': 140,
-    'version': '1.0.0',
+    'version': '17.0.1.0.0',
     'depends': ['website'],
     'data': [
         'data/generate_primary_template.xml',

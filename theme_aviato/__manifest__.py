@@ -4,7 +4,7 @@
     'category': 'Theme/Creative',
     'summary': 'Travel, Excursion, Plane, Tour, Agency ',
     'sequence': 130,
-    'version': '1.0.0',
+    'version': '17.0.1.0.0',
     'depends': ['theme_common'],
     'data': [
         'data/generate_primary_template.xml',
