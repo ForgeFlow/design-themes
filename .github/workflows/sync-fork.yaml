@@ -1,0 +1,20 @@
+# Based on https://gist.github.com/DewaldDeJager/518f6814049a0f7763642ec02f62cabf
+name: sync-fork
+on:
+  push:
+    branches:
+      - sync-fork
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    strategy:
+      matrix:
+        branch: ["15.0", "16.0", "17.0", "18.0"]
+    steps:
+      - run: gh repo sync $GITHUB_REPOSITORY -b ${{ matrix.branch }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.WRITE_TOKEN }}
